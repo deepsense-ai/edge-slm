@@ -1,0 +1,24 @@
+---
+BasedOnStyle: LLVM
+AlwaysBreakAfterDefinitionReturnType: None
+AlwaysBreakAfterReturnType: None
+NamespaceIndentation: None
+SpacesInSquareBrackets: 'false'
+Standard: Auto
+FixNamespaceComments: 'true'
+BreakBeforeBraces: Allman
+SortIncludes: 'true'
+SpaceBeforeParens: Never
+AllowShortFunctionsOnASingleLine: Inline
+BreakConstructorInitializers: BeforeColon
+IndentWidth: 4
+PointerAlignment: Left
+SpaceInEmptyParentheses: 'false'
+SpacesBeforeTrailingComments: 1
+SpacesInAngles: 'false'
+SpacesInParentheses: 'false'
+AlwaysBreakTemplateDeclarations: 'true'
+BreakBeforeInheritanceComma: 'false'
+ColumnLimit: 120
+IndentCaseLabels: 'true'
+...
