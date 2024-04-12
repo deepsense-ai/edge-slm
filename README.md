@@ -1,4 +1,4 @@
-# RAG
+# Small Language Model on the Edge (RAG pipeline)
 
 This project is a native implementation of a RAG pipeline. The main goal was to fit the whole RAG pipeline into a resource constrained device, such as smartphone.
 By design the provided RAG library should be deployable on various platforms. There is also a terminal demo application to check how does the pipeline works.
